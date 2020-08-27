@@ -1,3 +1,3 @@
 # Web Design
 
-HTML, CSS and JS codes.
+HTML, CSS and JS codes!
